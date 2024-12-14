@@ -1,0 +1,4 @@
+3
+P110, Phan Anh Tuan, 12/4/1985, 12 Quoc Lo 1S Binh Tan Ho Chi Minh, 8.5, 8000000, 200000
+P310, LyQuoc Kiet, 2/9/1990, 72 Nguyen Chi Thanh Q3 HCM, 9, 5435748, 7542456
+D310, Lam Tieu Mai, 12/7/1991, 1/32 Nguyen Trai Q1 HCM, 3.7, 473254, 68547
